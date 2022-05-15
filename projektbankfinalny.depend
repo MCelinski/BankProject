@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1589961582 source:d:\projektbankfinalny\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"klasy.h"
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+
+1589961501 d:\projektbankfinalny\klasy.h
+	<iostream>
+	<vector>
+
+1589962520 source:d:\projektbankfinalny\metody.cpp
+	<iostream>
+	"klasy.h"
+	<fstream>
+	<stdlib.h>
+	<ctime>
+	<vector>
+	<string>
+	<conio.h>
+	<windows.h>
+

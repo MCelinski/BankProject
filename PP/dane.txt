@@ -1,0 +1,49 @@
+bmw x5 2.4 20000
+reanault scenic 1.9 34000
+vw golf 1.6 76000
+fiat punto 1.2 45000
+dacia logan 1.4 23000
+skoda fabia 1.6 57500
+renault clio 1.2 56700
+mazda cx5 2.0 66300
+vw polo 1.1 23000
+vw lupo 1.0 78000
+vw jetta 1.6 57800
+skoda felicia 1.2 54700
+opel astra 1.4 12400
+opel vectra 1.8 71200 
+renault egane 1.6 1900
+opel omega 2.0 38900
+opel corsa 1.4 97000
+renault captur 1.5 37800
+renault kadjar 1.6 39600
+fiat marea 1.6 43000
+fiat siena 1.4 66800
+fiat bravo 1.6 51000
+chevrolet corvette 6.00 23400
+bmw m2 3.0 31800
+bmw 321i 1.8 6700
+toyota rav4 1.9 59800
+toyota camry 2.0 71800
+toyoya yaris 1.2 34600
+suzuki swift 1.3 22400
+peugeot 208 1.6 44800
+peugeot 508 1.8 12300
+peugeot 3008 1.6 14600
+porsche macan 3.0 13400
+daewoo matiz 1.0 4700
+ford focus 1.6 15600
+ford fiesta 1.2 34500
+ford mondeo 2.0 61300
+lancia delta 1.6 58900
+lancia cappa 1.6 9800
+jaguar xe 2.0 19800
+mercedes cls 3.0 25600
+mercedes slk 1.8 61300
+volvo c70 2.4 57800`
+
+ 
+
+
+ 
+

@@ -1,0 +1,32 @@
+10020946 Michal Celinski Dnia: Wed May 20 09:51:08 2020
+Wplacono 1000zl
+10020946 Michal Celinski Dnia: Wed May 20 09:51:13 2020
+Wyplacono 100zl
+10020946 Michal Celinski Dnia: Wed May 20 09:53:38 2020
+Wplacono 100zl
+10020946 Michal Celinski Dnia: Wed May 20 10:05:53 2020
+Wplacono 100zl
+10020946 Michal Celinski Dnia: Wed May 20 10:06:31 2020
+Wyplacono 120zl
+10020946 Michal Celinski Dnia: Wed May 20 10:07:27 2020
+Przelano 40zl na konto 10021341 Mateusz Gorski
+10021341 Mateusz Gorski Dnia: Wed May 20 10:07:27 2020
+Przelano na twoje konto 40zl od 10020946 Michal Celinski
+10031309 michal celinski Dnia: Sun Jun 21 20:21:14 2020
+Wplacono 1000zl
+10031309 michal celinski Dnia: Sun Jun 21 20:21:30 2020
+Wplacono 1000zl
+10031309 michal celinski Dnia: Sun Jun 21 20:21:34 2020
+Wyplacono 1zl
+10031309 michal celinski Dnia: Sun Jun 21 20:21:39 2020
+Wplacono 1zl
+10031309 michal celinski Dnia: Sun Jun 21 20:26:23 2020
+Wplacono 10000zl
+10031309 michal celinski Dnia: Sun Jun 21 20:26:58 2020
+Wplacono 1e+06zl
+10031309 michal celinski Dnia: Sun Jun 21 20:28:09 2020
+Przelano 20zl na konto 10031795 Marcin Bogdaäski
+10031795 Marcin Bogdaäski Dnia: Sun Jun 21 20:28:09 2020
+Przelano na twoje konto 20zl od 10031309 michal celinski
+10031309 michal celinski Dnia: Mon Jun 07 18:16:23 2021
+Wplacono 10000zl

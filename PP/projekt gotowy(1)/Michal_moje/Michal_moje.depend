@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1584213730 source:f:\c++\obiektowe\michal_moje\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<conio.h>
+
+1584203971 source:f:\c++\obiektowe\michal_moje\auto.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<vector>
+	"main.h"
+
+1584203914 f:\c++\obiektowe\michal_moje\main.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+

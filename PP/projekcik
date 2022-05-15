@@ -1,0 +1,65 @@
+
+class auta:
+
+    def __init__(self, marka, model, rocznik, pojemnosc, przebieg, skrzynia):
+        self.marka = marka
+        self.model = model
+        self.rocznik = rocznik
+        self.pojemnosc = pojemnosc
+        self.przebieg = przebieg
+        self.skrzynia = skrzynia
+
+
+    def zapis(self, marka, model, rocznik, pojemnosc, przebieg, skrzynia):
+        samochod = int(input(auta(marka, model, rocznik, pojemnosc, przebieg, skrzynia)))
+        ls.append(samochod)
+
+    def wyswietl(self, samochod):
+        print("marka   : ", samochod.marka)
+        print("model : ", samochod.model)
+        print("rocznik : ", samochod.rocznik)
+        print("pojemnosc : ", samochod.pojemnosc)
+        print("przebieg : ", samochod.przebieg)
+        print("skrzynia : ", samochod.skrzynia)
+        print("\n")
+
+        # Search Function
+
+    """def search(self, numer):
+        for i in enumerate(range(ls.__len__())):
+            if (ls[i] == numer):
+                return i
+
+                # Delete Function
+                """
+
+    def delete(self, rn):
+        i = obj.search(rn)
+        del ls[i]
+
+
+ls = []
+samochod = Student('', " ",0, 0, 0," ")
+
+
+ch = int(input("Enter choice:"))
+if(ch == 1):
+    samochod.zapis("audi", "q5", 2000, 2.0, 20000, "A")
+elif(ch == 2):
+    print("\n")
+    print("\nList of Students\n")
+    for i in range(ls.__len__()):
+        samochod.wyswietl(ls[i])
+
+elif(ch == 3):
+    print("\n Student Found, ")
+    s = samochod.search(2)
+    samochod.wyswietly(ls[s])
+"""
+# elif(ch == 4):
+obj.delete(2)
+print(ls.__len__())
+print("List after deletion")
+for i in range(ls.__len__()):
+    obj.display(ls[i])
+    """

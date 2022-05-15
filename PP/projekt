@@ -1,0 +1,58 @@
+class auta:
+    def __init__(self, marka, model, rocznik, pojemnosc, przebieg, skrzynia):
+        self.marka = marka
+        self.model = model
+        self.rocznik = rocznik
+        self.pojemnosc = pojemnosc
+        self.przebieg = przebieg
+        self.skrzynia = skrzynia
+
+    def zapis(self, marka, model, rocznik, pojemnosc, przebieg,skrzynia ):
+
+        samochod = input(auta(marka, model, rocznik, pojemnosc, przebieg, skrzynia ))
+        ls.append(samochod)
+
+
+    def wyswietl(self, samochod):
+        print("marka   : ", samochod.marka)
+        print("model : ", samochod.model)
+        print("rocznik : ", samochod.rocznik)
+        print("pojemnosc : ", samochod.pojemnosc)
+        print("przebieg : ", samochod.przebieg)
+        print("skrzynia : ", samochod.skrzynia)
+        print("\n")
+
+
+
+
+
+ls=auta
+
+
+
+
+
+
+
+z=input("Czy chcesz korzystac z istniejacego pliku?\n1.Tak\n2.Nie (wybranie tej opcji spowoduje usuniecie istniejacej bazy)\n")
+if z == "1":
+    print("beka")
+while z !=0:
+    x=int(input("Co chcesz zrobic?\n1.Dodaj samochod\n2.Pokaz liste samochodow\n")
+    print("3.Odczytaj warunkowo\n4.Wyswietl konkretny samochod\n6.Usun konkretny samochod\n7.Posortuj Samochody po parametrze\n0. nic\n")
+    if x == 1:
+
+    if x == 2:
+
+    if x == 3:
+
+    if x == 4:
+
+    if x == 5:
+
+    if x == 6:
+
+    if x == 7:
+
+    if x == 0:
+
